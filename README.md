@@ -3,4 +3,4 @@ I'm Chris. I'm interested in how AI and cognition (currently working on a comput
 
 Previously, I've worked on LLM Optimization and Deployment at Red Hat AI Inference (vLLM).
 
-Interested in Deep Learning, NLP, Computational Neuroscience
+Interested in Deep Learning, NLP, AI Inference
